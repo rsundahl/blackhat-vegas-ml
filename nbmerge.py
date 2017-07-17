@@ -1,3 +1,5 @@
+# -*- coding: iso-8859-15 -*-
+
 import io
 import os
 import sys
