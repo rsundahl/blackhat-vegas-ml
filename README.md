@@ -1,5 +1,5 @@
 ## MACHINE LEARNING FOR PENTESTERS AND SECURITY RESEARCHERS
-Course materials for General Assembly's Data Science course in San Francisco, CA (7/22/17 - 7/25/17).
+Course materials for 7/22/17 - 7/25/17
 
 **Instructors:** [Sinan Ozdemir](https://www.linkedin.com/in/sinan-ozdemir-10568534) 
 
