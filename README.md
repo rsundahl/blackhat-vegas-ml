@@ -39,14 +39,8 @@ The hardest thing to do now is to stay sharp! I have a few recommendations on ne
 	*  Introduction to Statistical Learning [book](http://www-bcf.usc.edu/~gareth/ISL/) Videos [here](http://www.dataschool.io/15-hours-of-expert-machine-learning-videos/)
 	*  PCA by hand [here](http://sebastianraschka.com/Articles/2014_pca_step_by_step.html)
 * Take a look at the **Resources** for each class to get a deeper understanding of what we've learned. Trust me there are a lot
-* Follow data scientists on Twitter.  This will help you stay up on the latest news/models/applications/tools.
+* Follow data scientists on Twitter.  This will help you stay up on the latest news/models/applications/tools. (I'm @Prof_OZ)
 * Read blogs to keep learning.  I really like [District Data Labs](http://districtdatalabs.silvrback.com/) and [Data Elixer](http://dataelixir.com/).
-* There are some active Python Data meetups in the area:
-	* [SF Python](http://www.meetup.com/sfpython/)
-	* [SF Data Science](http://www.meetup.com/SF-Data-Science/)
-	* [SF Data Mining](http://www.meetup.com/Data-Mining/)
-	* Request sponsorship for study groups through [GA](https://gaalumni.typeform.com/to/dGyuWb)
-	* [General GA Alumni Perks](http://generalassemb.ly/alumni)
 
 	
 Thank you all for such a wonderful time and I truly hope to stay in touch.
